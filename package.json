@@ -5,7 +5,7 @@
   "homepage": "https://docs.couchbase.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/couchbase/docs-ui.git"
+    "url": "https://github.com/det-lab/doc-ui.git"
   },
   "engines": {
     "node": ">= 8.0.0"

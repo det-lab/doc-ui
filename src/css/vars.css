@@ -1,7 +1,7 @@
 :root {
   /* NOTE tint colors are 15% transparent */
   /* primary */
-  --color-brand-black: #000;
+  --color-brand-black: rgb(53, 53, 53);
   --color-brand-red: #ea2328;
   --color-brand-red-tint: #fcdedf;
   --color-brand-white: #fff;
@@ -28,10 +28,10 @@
   /* --color-border-table: #666; */
   --color-border-table: #dadada;
   --color-shade: #f3f3f3;
-  --color-navbar-bg: var(--color-brand-black);
-  --color-navbar-text: var(--color-brand-white);
-  --color-footer-bg: var(--color-brand-black);
-  --color-footer-text: var(--color-brand-white);
+  --color-navbar-bg: var(--color-brand-purple-tint);
+  --color-navbar-text: var(--color-text);
+  --color-footer-bg: var(--color-brand-purple-tint);
+  --color-footer-text: var(--color-text);
   --height-spacer: 1.5rem;
   /* --height-navbar: 4rem; */
   --height-navbar: 4.875rem;
