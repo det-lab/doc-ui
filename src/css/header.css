@@ -15,9 +15,12 @@
   height: inherit;
 }
 
-.navbar,
-.navbar a {
+.navbar{
   color: var(--color-navbar-text);
+}
+
+.navbar a {
+  color: aliceblue;
 }
 
 .navbar a:focus,
