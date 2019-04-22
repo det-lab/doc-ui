@@ -15,12 +15,9 @@
   height: inherit;
 }
 
-.navbar{
-  color: var(--color-navbar-text);
-}
-
+.navbar,
 .navbar a {
-  color: aliceblue;
+  color: var(--color-brand-purple);
 }
 
 .navbar a:focus,
